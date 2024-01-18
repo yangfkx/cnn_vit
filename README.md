@@ -33,15 +33,15 @@ CIFAR-10（Canadian Institute For Advanced Research - 10）是一个常用的图
 
 # 实验结果 #
 
-Epoch 1/10, Loss: 1.783, Accuracy: 30.64%  
-Epoch 2/10, Loss: 1.266, Accuracy: 53.91%  
-Epoch 3/10, Loss: 0.943, Accuracy: 67.39%  
-Epoch 4/10, Loss: 0.714, Accuracy: 75.88%  
-Epoch 5/10, Loss: 0.515, Accuracy: 82.78%  
-Epoch 6/10, Loss: 0.339, Accuracy: 88.74%  
-Epoch 7/10, Loss: 0.220, Accuracy: 92.96%  
-Epoch 8/10, Loss: 0.153, Accuracy: 95.18%  
-Epoch 9/10, Loss: 0.117, Accuracy: 96.34%  
-Epoch 10/10, Loss: 0.094, Accuracy: 97.05%  
-Finished Training  
-Accuracy on the test images: 73 %  
+Epoch 1/10, Loss: 1.783, Accuracy: 30.64%  <br/>
+Epoch 2/10, Loss: 1.266, Accuracy: 53.91%  <br/>
+Epoch 3/10, Loss: 0.943, Accuracy: 67.39%  <br/>
+Epoch 4/10, Loss: 0.714, Accuracy: 75.88%  <br/>
+Epoch 5/10, Loss: 0.515, Accuracy: 82.78%  <br/>
+Epoch 6/10, Loss: 0.339, Accuracy: 88.74%  <br/>
+Epoch 7/10, Loss: 0.220, Accuracy: 92.96%  <br/>
+Epoch 8/10, Loss: 0.153, Accuracy: 95.18%  <br/>
+Epoch 9/10, Loss: 0.117, Accuracy: 96.34%  <br/>
+Epoch 10/10, Loss: 0.094, Accuracy: 97.05%  <br/>
+Finished Training  <br/>
+Accuracy on the test images: 73 %  <br/>
